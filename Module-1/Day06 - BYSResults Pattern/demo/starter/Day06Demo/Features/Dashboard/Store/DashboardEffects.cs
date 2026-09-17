@@ -9,31 +9,17 @@ public class DashboardEffects(IDashboardService dashboardService)
     public async Task HandleLoadDashboardAction(
         LoadDashboardAction action, IDispatcher dispatcher)
     {
-        // Demo B — Step 6 [CODE LIVE]: Replace this try/catch with Result<T> checking.
-        //
-        // After IDashboardService returns Task<Result<DashboardData>>, change this to:
-        //     var result = await dashboardService.GetDashboardDataAsync();
-        //     if (result.IsSuccess)
-        //     {
-        //         DashboardData data = result.Value!;   // ! -- IsSuccess guarantees non-null
-        //         dispatcher.Dispatch(new LoadDashboardSuccessAction(
-        //             data.NotificationCount, data.ProductCount, data.UserName));
-        //     }
-        //     else
-        //     {
-        //         var errors = result.Errors.Select(e => e.ToString()).ToList();
-        //         dispatcher.Dispatch(new LoadDashboardFailureAction(
-        //             string.Join("; ", errors)));
-        //     }
-        try
+        var result = await dashboardService.GetDashboardDataAsync();
+        if (result.IsSuccess)
         {
-            var data = await dashboardService.GetDashboardDataAsync();
+            var data = result.Value;
             dispatcher.Dispatch(new LoadDashboardSuccessAction(
                 data.NotificationCount, data.ProductCount, data.UserName));
         }
-        catch (Exception ex)
+        else
         {
-            dispatcher.Dispatch(new LoadDashboardFailureAction(ex.Message));
+            var errors = result.Errors.Select(e => e.ToString()).ToList();
+            dispatcher.Dispatch(new LoadDashboardFailureAction(string.Join("; ", errors)));
         }
     }
 }
