@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Fall\\SDEV2351\\General\\Lessons\\Module 01\\Day 06\\practice\\starter\\Day06Practice\\Day06Practice.csproj": {}
+    "C:\\Users\\carte\\Downloads\\SDEV-Sem3-Repositories\\A03-2351-Carter\\Module-1\\Day06 - BYSResults Pattern\\practice\\starter\\Day06Practice\\Day06Practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Fall\\SDEV2351\\General\\Lessons\\Module 01\\Day 06\\practice\\starter\\Day06Practice\\Day06Practice.csproj": {
+    "C:\\Users\\carte\\Downloads\\SDEV-Sem3-Repositories\\A03-2351-Carter\\Module-1\\Day06 - BYSResults Pattern\\practice\\starter\\Day06Practice\\Day06Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Fall\\SDEV2351\\General\\Lessons\\Module 01\\Day 06\\practice\\starter\\Day06Practice\\Day06Practice.csproj",
+        "projectUniqueName": "C:\\Users\\carte\\Downloads\\SDEV-Sem3-Repositories\\A03-2351-Carter\\Module-1\\Day06 - BYSResults Pattern\\practice\\starter\\Day06Practice\\Day06Practice.csproj",
         "projectName": "Day06Practice",
-        "projectPath": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Fall\\SDEV2351\\General\\Lessons\\Module 01\\Day 06\\practice\\starter\\Day06Practice\\Day06Practice.csproj",
-        "packagesPath": "C:\\Users\\jkarpiak.NAIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Fall\\SDEV2351\\General\\Lessons\\Module 01\\Day 06\\practice\\starter\\Day06Practice\\obj\\",
+        "projectPath": "C:\\Users\\carte\\Downloads\\SDEV-Sem3-Repositories\\A03-2351-Carter\\Module-1\\Day06 - BYSResults Pattern\\practice\\starter\\Day06Practice\\Day06Practice.csproj",
+        "packagesPath": "C:\\Users\\carte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carte\\Downloads\\SDEV-Sem3-Repositories\\A03-2351-Carter\\Module-1\\Day06 - BYSResults Pattern\\practice\\starter\\Day06Practice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jkarpiak.NAIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\carte\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -64,7 +64,7 @@
             "Microsoft.AspNetCore.App.Internal.Assets": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.12, )",
+              "version": "[10.0.11, )",
               "autoReferenced": true
             }
           },
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

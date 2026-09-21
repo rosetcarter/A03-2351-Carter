@@ -1,5 +1,6 @@
 namespace Day06Practice.Services;
 
+using BYSResults;
 /// <summary>
 /// Practice 2: Refactor this service to use BYSResult instead of exceptions.
 ///
@@ -16,7 +17,7 @@ namespace Day06Practice.Services;
 public class ProductService : IProductService
 {
     // Simulated in-memory data store (instance field, one list per Scoped service instance)
-    private readonly List<Product> _products =
+    private readonly List<Result<Product>> _products =
     [
         new Product(1, "Wireless Mouse", 29.99m),
         new Product(2, "USB-C Hub", 49.99m),

@@ -32,7 +32,7 @@
           "lib/net8.0/Fluxor.Blazor.Web.dll": {}
         }
       },
-      "Microsoft.AspNetCore.App.Internal.Assets/10.0.12": {
+      "Microsoft.AspNetCore.App.Internal.Assets/10.0.11": {
         "type": "package",
         "build": {
           "build/Microsoft.AspNetCore.App.Internal.Assets.props": {},
@@ -89,10 +89,10 @@
         "lib/net8.0/Fluxor.Blazor.Web.dll"
       ]
     },
-    "Microsoft.AspNetCore.App.Internal.Assets/10.0.12": {
-      "sha512": "+sIBo9AMBZH46qHWHQdfzcGMt+RuBaPYrUMOAM9VjA7MQ9QtIez3lq1C3E05+Yroa94KKt3DSWaxmCI4H28a9Q==",
+    "Microsoft.AspNetCore.App.Internal.Assets/10.0.11": {
+      "sha512": "tYYYBZsuF2DSz1I3hcfB8qC4nNekIKufkYZOJ2R28fNK3PkS7fJao/mIX5H84NH94UACZQ4dhvt8GDlkrJFwLg==",
       "type": "package",
-      "path": "microsoft.aspnetcore.app.internal.assets/10.0.12",
+      "path": "microsoft.aspnetcore.app.internal.assets/10.0.11",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -108,7 +108,7 @@
         "build/Microsoft.AspNetCore.App.Internal.Assets.targets",
         "buildMultiTargeting/Microsoft.AspNetCore.App.Internal.Assets.targets",
         "buildTransitive/Microsoft.AspNetCore.App.Internal.Assets.targets",
-        "microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512",
+        "microsoft.aspnetcore.app.internal.assets.10.0.11.nupkg.sha512",
         "microsoft.aspnetcore.app.internal.assets.nuspec"
       ]
     }
@@ -117,27 +117,27 @@
     "net10.0": [
       "BYSResults >= 1.2.3",
       "Fluxor.Blazor.Web >= 6.0.0",
-      "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.12"
+      "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.11"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jkarpiak.NAIT\\.nuget\\packages\\": {},
+    "C:\\Users\\carte\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Fall\\SDEV2351\\General\\Lessons\\Module 01\\Day 06\\practice\\starter\\Day06Practice\\Day06Practice.csproj",
+      "projectUniqueName": "C:\\Users\\carte\\Downloads\\SDEV-Sem3-Repositories\\A03-2351-Carter\\Module-1\\Day06 - BYSResults Pattern\\practice\\starter\\Day06Practice\\Day06Practice.csproj",
       "projectName": "Day06Practice",
-      "projectPath": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Fall\\SDEV2351\\General\\Lessons\\Module 01\\Day 06\\practice\\starter\\Day06Practice\\Day06Practice.csproj",
-      "packagesPath": "C:\\Users\\jkarpiak.NAIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Fall\\SDEV2351\\General\\Lessons\\Module 01\\Day 06\\practice\\starter\\Day06Practice\\obj\\",
+      "projectPath": "C:\\Users\\carte\\Downloads\\SDEV-Sem3-Repositories\\A03-2351-Carter\\Module-1\\Day06 - BYSResults Pattern\\practice\\starter\\Day06Practice\\Day06Practice.csproj",
+      "packagesPath": "C:\\Users\\carte\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\carte\\Downloads\\SDEV-Sem3-Repositories\\A03-2351-Carter\\Module-1\\Day06 - BYSResults Pattern\\practice\\starter\\Day06Practice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jkarpiak.NAIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\carte\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -184,7 +184,7 @@
           "Microsoft.AspNetCore.App.Internal.Assets": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[10.0.12, )",
+            "version": "[10.0.11, )",
             "autoReferenced": true
           }
         },
@@ -207,7 +207,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

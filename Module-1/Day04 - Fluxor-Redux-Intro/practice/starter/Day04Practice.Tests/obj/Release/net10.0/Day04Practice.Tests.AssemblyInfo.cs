@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day04Practice.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9239c655e3e005718ca36d9743909c20472d4e4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f046ca67c1a87b361f8bcff370c65ccb78dc6d9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day04Practice.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day04Practice.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
