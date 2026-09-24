@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GgLWQOGmReo=",
+  "dgSpecHash": "zQ2uXhqTads=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Fall\\SDEV2351\\General\\Lessons\\Module 01\\Day 07\\practice\\starter\\Day07Practice\\Day07Practice.csproj",
+  "projectFilePath": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Fall\\SDEV2351\\A03\\Fall2026-A03-Class-Repo\\Module-1\\Day07 - Routing Guards and State\\practice\\starter\\Day07Practice\\Day07Practice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jkarpiak.NAIT\\.nuget\\packages\\bysresults\\1.2.3\\bysresults.1.2.3.nupkg.sha512",
     "C:\\Users\\jkarpiak.NAIT\\.nuget\\packages\\fluxor\\6.0.0\\fluxor.6.0.0.nupkg.sha512",
