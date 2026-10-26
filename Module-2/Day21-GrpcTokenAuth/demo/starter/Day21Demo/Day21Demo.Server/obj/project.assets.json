@@ -769,23 +769,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jkarpiak.NAIT\\.nuget\\packages\\": {},
+    "C:\\Users\\carte\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Fall\\SDEV2351\\General\\Lessons\\Module 02\\Day 21\\demo\\starter\\Day21Demo\\Day21Demo.Server\\Day21Demo.Server.csproj",
+      "projectUniqueName": "C:\\Users\\carte\\source\\repos\\A03-2351-Carter\\Module-2\\Day21-GrpcTokenAuth\\demo\\starter\\Day21Demo\\Day21Demo.Server\\Day21Demo.Server.csproj",
       "projectName": "Day21Demo.Server",
-      "projectPath": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Fall\\SDEV2351\\General\\Lessons\\Module 02\\Day 21\\demo\\starter\\Day21Demo\\Day21Demo.Server\\Day21Demo.Server.csproj",
-      "packagesPath": "C:\\Users\\jkarpiak.NAIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Fall\\SDEV2351\\General\\Lessons\\Module 02\\Day 21\\demo\\starter\\Day21Demo\\Day21Demo.Server\\obj\\",
+      "projectPath": "C:\\Users\\carte\\source\\repos\\A03-2351-Carter\\Module-2\\Day21-GrpcTokenAuth\\demo\\starter\\Day21Demo\\Day21Demo.Server\\Day21Demo.Server.csproj",
+      "packagesPath": "C:\\Users\\carte\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\carte\\source\\repos\\A03-2351-Carter\\Module-2\\Day21-GrpcTokenAuth\\demo\\starter\\Day21Demo\\Day21Demo.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jkarpiak.NAIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\carte\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -849,7 +849,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

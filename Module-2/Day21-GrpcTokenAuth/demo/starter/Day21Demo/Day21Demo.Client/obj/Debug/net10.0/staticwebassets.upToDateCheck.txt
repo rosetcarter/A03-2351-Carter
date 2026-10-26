@@ -1,0 +1,6 @@
+wwwroot\app.css
+C:\Users\carte\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.13\build\..\_framework\blazor.web.js
+C:\Users\carte\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.13\build\..\_framework\blazor.server.js
+C:\Users\carte\source\repos\A03-2351-Carter\Module-2\Day21-GrpcTokenAuth\demo\starter\Day21Demo\Day21Demo.Client\wwwroot\app.css
+C:\Users\carte\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.13\_framework\blazor.web.js
+C:\Users\carte\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.13\_framework\blazor.server.js

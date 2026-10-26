@@ -1,8 +1,10 @@
 using Grpc.Core;
 using CampusStore.Protos;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Day21Demo.Server.Services;
 
+[Authorize]
 public class ProductCatalogService : ProductCatalog.ProductCatalogBase
 {
     private static readonly List<Product> Products =

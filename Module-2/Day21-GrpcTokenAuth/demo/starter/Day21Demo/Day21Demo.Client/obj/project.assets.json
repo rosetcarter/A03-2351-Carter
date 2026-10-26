@@ -83,7 +83,7 @@
           "build/Grpc.Tools.targets": {}
         }
       },
-      "Microsoft.AspNetCore.App.Internal.Assets/10.0.12": {
+      "Microsoft.AspNetCore.App.Internal.Assets/10.0.13": {
         "type": "package",
         "build": {
           "build/Microsoft.AspNetCore.App.Internal.Assets.props": {},
@@ -371,10 +371,10 @@
         "tools/windows_x86/protoc.exe"
       ]
     },
-    "Microsoft.AspNetCore.App.Internal.Assets/10.0.12": {
-      "sha512": "+sIBo9AMBZH46qHWHQdfzcGMt+RuBaPYrUMOAM9VjA7MQ9QtIez3lq1C3E05+Yroa94KKt3DSWaxmCI4H28a9Q==",
+    "Microsoft.AspNetCore.App.Internal.Assets/10.0.13": {
+      "sha512": "Y2cXnMnqht5fvja2H8kkr5WA2fYItIPwXiBVo83+/9oySuKZCrz4T+yyZRFtLpxxDScvtYDt7e+J0eNElJ+AiA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.app.internal.assets/10.0.12",
+      "path": "microsoft.aspnetcore.app.internal.assets/10.0.13",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -390,7 +390,7 @@
         "build/Microsoft.AspNetCore.App.Internal.Assets.targets",
         "buildMultiTargeting/Microsoft.AspNetCore.App.Internal.Assets.targets",
         "buildTransitive/Microsoft.AspNetCore.App.Internal.Assets.targets",
-        "microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512",
+        "microsoft.aspnetcore.app.internal.assets.10.0.13.nupkg.sha512",
         "microsoft.aspnetcore.app.internal.assets.nuspec"
       ]
     },
@@ -561,28 +561,28 @@
       "Google.Protobuf >= 3.29.3",
       "Grpc.Net.ClientFactory >= 2.70.0",
       "Grpc.Tools >= 2.70.0",
-      "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.12",
+      "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.13",
       "System.IdentityModel.Tokens.Jwt >= 8.19.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jkarpiak.NAIT\\.nuget\\packages\\": {},
+    "C:\\Users\\carte\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Fall\\SDEV2351\\General\\Lessons\\Module 02\\Day 21\\demo\\starter\\Day21Demo\\Day21Demo.Client\\Day21Demo.Client.csproj",
+      "projectUniqueName": "C:\\Users\\carte\\source\\repos\\A03-2351-Carter\\Module-2\\Day21-GrpcTokenAuth\\demo\\starter\\Day21Demo\\Day21Demo.Client\\Day21Demo.Client.csproj",
       "projectName": "Day21Demo.Client",
-      "projectPath": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Fall\\SDEV2351\\General\\Lessons\\Module 02\\Day 21\\demo\\starter\\Day21Demo\\Day21Demo.Client\\Day21Demo.Client.csproj",
-      "packagesPath": "C:\\Users\\jkarpiak.NAIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Fall\\SDEV2351\\General\\Lessons\\Module 02\\Day 21\\demo\\starter\\Day21Demo\\Day21Demo.Client\\obj\\",
+      "projectPath": "C:\\Users\\carte\\source\\repos\\A03-2351-Carter\\Module-2\\Day21-GrpcTokenAuth\\demo\\starter\\Day21Demo\\Day21Demo.Client\\Day21Demo.Client.csproj",
+      "packagesPath": "C:\\Users\\carte\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\carte\\source\\repos\\A03-2351-Carter\\Module-2\\Day21-GrpcTokenAuth\\demo\\starter\\Day21Demo\\Day21Demo.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jkarpiak.NAIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\carte\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -634,7 +634,7 @@
           "Microsoft.AspNetCore.App.Internal.Assets": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[10.0.12, )",
+            "version": "[10.0.13, )",
             "autoReferenced": true
           },
           "System.IdentityModel.Tokens.Jwt": {
@@ -661,7 +661,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
